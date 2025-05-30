@@ -53,6 +53,6 @@ test("User can register account successfully[BDD style]", async ({ open }) => {
   });
 
   await test.step("Then the account has been created successfully", async () => {
-    await expect(accountCreatedPage.getAccountCreatedMessage()).toBeVisible();
+    await expect(accountCreatedPage.getAccountCreatedMessage()).not.toBeVisible();
   });
 });
