@@ -1,0 +1,26 @@
+[
+  {
+    "name": "LinaTestUser",
+    "email": "lina@example.com",
+    "password": "Test@123",
+    "birthDay": "1",
+    "birthMonth": "January",
+    "birthYear": "1990",
+    "firstName": "Lina",
+    "lastName": "Sun",
+    "company": "TestCompany",
+    "address1": "123 Main St",
+    "address2": "Suite 456",
+    "country": "Canada",
+    "state": "Auckland",
+    "city": "Auckland",
+    "zipcode": "1001",
+    "mobile": "0211234567"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "email": "bob@example.com",
+    "password": "SecurePass456"
+  }
+]
